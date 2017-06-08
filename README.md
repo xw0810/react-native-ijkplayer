@@ -37,9 +37,9 @@
 
 ## Usage
 ```javascript
-import RNIIJKPlayer from 'react-native-ijkplayer';
+import RNIJKPlayer from 'react-native-ijkplayer';
 
 // TODO: 
-RNIIJKPlayer;
+RNIJKPlayer;
 ```
   
